@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="966db97d-a9bb-4784-aa4f-1421479a3693" name="Default Changelist" comment="" />
+    <list default="true" id="966db97d-a9bb-4784-aa4f-1421479a3693" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +114,7 @@
       <path value="$PROJECT_DIR$/vendor/phar-io/version" />
       <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/bigbluebutton/bigbluebutton-api-php" />
     </include_path>
   </component>
   <component name="ProjectId" id="1bDqELeEspU1NtdPJ9iEXr52py4" />
@@ -146,7 +152,8 @@
       <workItem from="1588328382268" duration="1321000" />
       <workItem from="1588352363701" duration="686000" />
       <workItem from="1588372068649" duration="1264000" />
-      <workItem from="1588399513138" duration="3638000" />
+      <workItem from="1588399513138" duration="4970000" />
+      <workItem from="1588427150069" duration="602000" />
     </task>
     <servers />
   </component>
